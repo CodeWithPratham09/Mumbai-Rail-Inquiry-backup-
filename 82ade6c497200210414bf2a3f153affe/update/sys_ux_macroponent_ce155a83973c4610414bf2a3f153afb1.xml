@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <bundles/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[
+    {
+        "definition": {
+            "id": "dec0b89ec87f44e66126f8cc78e53891",
+            "type": "MACROPONENT"
+        },
+        "elementId": "data_set_1",
+        "elementLabel": "Data set 1",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "preset": null,
+        "propertyValues": {
+            "cardHeight": {
+                "type": "JSON_LITERAL",
+                "value": "sm"
+            },
+            "daClientActionContract": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "data": {
+                "type": "JSON_LITERAL",
+                "value": {}
+            },
+            "dataBrokerIsLoading": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "defaultView": {
+                "type": "JSON_LITERAL",
+                "value": "list"
+            },
+            "emptyMessage": {
+                "type": "TRANSLATION_LITERAL",
+                "value": {
+                    "code": null,
+                    "comment": "",
+                    "message": "No content to display"
+                }
+            },
+            "hideFilter": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "hidePaginationControls": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "maxCardsPerRow": {
+                "type": "JSON_LITERAL",
+                "value": "4"
+            },
+            "minCardWidth": {
+                "type": "JSON_LITERAL",
+                "value": "150"
+            },
+            "title": {
+                "type": "TRANSLATION_LITERAL",
+                "value": {
+                    "code": null,
+                    "comment": "",
+                    "message": "Mumbai Rail Data"
+                }
+            },
+            "titleHeadingLevel": {
+                "type": "JSON_LITERAL",
+                "value": "1"
+            },
+            "titleStyleVariant": {
+                "type": "JSON_LITERAL",
+                "value": "header-tertiary"
+            },
+            "toggleView": {
+                "type": "JSON_LITERAL",
+                "value": true
+            }
+        },
+        "slot": null,
+        "styles": null
+    }
+]</composition>
+        <da_relay_models/>
+        <data>[
+    
+]</data>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{}</internal_event_mappings>
+        <layout>{
+    "default": {
+        "children": null,
+        "items": [
+            {
+                "element_id": "data_set_1",
+                "styles": {}
+            }
+        ],
+        "root": null,
+        "rules": null,
+        "styles": {
+            "flex-direction": "column"
+        },
+        "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+        "type": "flex"
+    },
+    "version": "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>For All users</name>
+        <output_prop_mapping/>
+        <props>[
+    {
+        "defaultValue": "",
+        "description": null,
+        "disabled": false,
+        "fieldType": "string",
+        "label": "mumbairailinquiry",
+        "mandatory": false,
+        "name": "mumbairailinquiry",
+        "readOnly": true,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "Mumbai Rail Data",
+  "comment" : ""
+}, {
+  "message" : "No content to display",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config/>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties/>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-12 05:47:57</sys_created_on>
+        <sys_id>ce155a83973c4610414bf2a3f153afb1</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>For All users</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_update_name>sys_ux_macroponent_ce155a83973c4610414bf2a3f153afb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-12 05:59:02</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=ce155a83973c4610414bf2a3f153afb1"/>
+</record_update>

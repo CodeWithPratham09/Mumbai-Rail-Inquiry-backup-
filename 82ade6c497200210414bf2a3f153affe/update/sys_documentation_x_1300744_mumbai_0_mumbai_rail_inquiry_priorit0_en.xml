@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="priorit0" label="Priority" language="en" table="x_1300744_mumbai_0_mumbai_rail_inquiry">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>priorit0</element>
+            <help/>
+            <hint/>
+            <label>Priority</label>
+            <language>en</language>
+            <name>x_1300744_mumbai_0_mumbai_rail_inquiry</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-19 14:11:21</sys_created_on>
+            <sys_mod_count>15</sys_mod_count>
+            <sys_name>Priority</sys_name>
+            <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+            <sys_update_name>sys_documentation_x_1300744_mumbai_0_mumbai_rail_inquiry_priorit0_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-23 05:05:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

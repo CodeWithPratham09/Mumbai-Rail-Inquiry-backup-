@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 03:57:41</sys_created_on>
+        <sys_id>c302b59897ec0210414bf2a3f153af74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.itil</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_security_acl display_value="">4c91b99897ec0210414bf2a3f153af28</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c302b59897ec0210414bf2a3f153af74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 03:57:41</sys_updated_on>
+        <sys_user_role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</application>
+        <file_path/>
+        <instance_id>5d7757d79b9e4f087ac36b8af359ff90</instance_id>
+        <instance_name>dev47283</instance_name>
+        <name>sys_security_acl_role_c302b59897ec0210414bf2a3f153af74</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 03:57:41</sys_created_on><sys_id>c302b59897ec0210414bf2a3f153af74</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.itil</sys_name><sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package><sys_policy/><sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope><sys_security_acl display_value="">4c91b99897ec0210414bf2a3f153af28</sys_security_acl><sys_update_name>sys_security_acl_role_c302b59897ec0210414bf2a3f153af74</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 03:57:41</sys_updated_on><sys_user_role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-691412439</payload_hash>
+        <record_name>.itil</record_name>
+        <reverted_from/>
+        <source>0aad2ac497200210414bf2a3f153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 03:57:41</sys_created_on>
+        <sys_id>427239d897ec0210414bf2a3f153af27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc4a988140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 03:57:41</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>467239d8b4ec0210d20b40ffcd815726</update_guid>
+        <update_guid_history>467239d8b4ec0210d20b40ffcd815726:-691412439</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".itil">7137395097204210414bf2a3f153af47</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 04:18:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>d9b6346f26a04ad28d43b3c7be905c04</sys_id>
+        <sys_metadata>c302b59897ec0210414bf2a3f153af74</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.itil</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_scope_delete display_value="">993f8f4824594b6f985007d6b1a2cbb9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_c302b59897ec0210414bf2a3f153af74</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_c302b59897ec0210414bf2a3f153af74">427239d897ec0210414bf2a3f153af27</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 04:18:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

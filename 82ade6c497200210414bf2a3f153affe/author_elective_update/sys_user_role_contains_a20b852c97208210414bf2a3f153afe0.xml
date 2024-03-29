@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_1300744_mumbai_0.All Users" name="x_1300744_mumbai_0.All Users">1124cc2497e84210414bf2a3f153af55</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 19:43:53</sys_created_on>
+        <sys_id>a20b852c97208210414bf2a3f153afe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1300744_mumbai_0.All Users</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_update_name>sys_user_role_contains_a20b852c97208210414bf2a3f153afe0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 19:43:53</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</application>
+        <file_path/>
+        <instance_id>5d7757d79b9e4f087ac36b8af359ff90</instance_id>
+        <instance_name>dev47283</instance_name>
+        <name>sys_user_role_contains_a20b852c97208210414bf2a3f153afe0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains><role display_value="x_1300744_mumbai_0.All Users" name="x_1300744_mumbai_0.All Users">1124cc2497e84210414bf2a3f153af55</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 19:43:53</sys_created_on><sys_id>a20b852c97208210414bf2a3f153afe0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>canvas_user.x_1300744_mumbai_0.All Users</sys_name><sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package><sys_policy/><sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope><sys_update_name>sys_user_role_contains_a20b852c97208210414bf2a3f153afe0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 19:43:53</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>75586191</payload_hash>
+        <record_name>canvas_user.x_1300744_mumbai_0.All Users</record_name>
+        <reverted_from/>
+        <source>0aad2ac497200210414bf2a3f153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 19:43:54</sys_created_on>
+        <sys_id>6a0b852c97208210414bf2a3f153afe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc80bd0950000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 19:43:54</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>6e0b852c2f208210c1af06a7138fa9e7</update_guid>
+        <update_guid_history>6e0b852c2f208210c1af06a7138fa9e7:75586191</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 06:11:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>a12349b027554e9e8c9731f3fd339404</sys_id>
+        <sys_metadata>a20b852c97208210414bf2a3f153afe0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1300744_mumbai_0.All Users</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_scope_delete display_value="">993f8f4824594b6f985007d6b1a2cbb9</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_a20b852c97208210414bf2a3f153afe0</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_a20b852c97208210414bf2a3f153afe0">6a0b852c97208210414bf2a3f153afe8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 06:11:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

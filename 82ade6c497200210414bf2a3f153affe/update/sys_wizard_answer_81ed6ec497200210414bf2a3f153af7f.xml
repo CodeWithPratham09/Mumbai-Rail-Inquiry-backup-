@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Mumbai Rail Inquiry</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Mumbai Rail Inquiry</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">19d3fca43c31311068bcf327dfe37f33</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 13:38:49</sys_created_on>
+        <sys_id>81ed6ec497200210414bf2a3f153af7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mumbai Rail Inquiry</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_update_name>sys_wizard_answer_81ed6ec497200210414bf2a3f153af7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 13:38:49</sys_updated_on>
+        <table/>
+        <target_url>x_1300744_mumbai_0_mumbai_rail_inquiry.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
