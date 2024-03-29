@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>0951f86b97f8c610414bf2a3f153af3c</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="UXR Base Unified App">c4b650c2c702201072b211d4d8c260a4</parent_app>
+        <path>cloudzestio</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 11:49:02</sys_created_on>
+        <sys_id>4951f86b97f8c610414bf2a3f153af40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloudzest.io</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_update_name>sys_ux_page_registry_4951f86b97f8c610414bf2a3f153af40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 11:49:02</sys_updated_on>
+        <title>Cloudzest.io</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</application>
+        <file_path/>
+        <instance_id>5d7757d79b9e4f087ac36b8af359ff90</instance_id>
+        <instance_name>dev47283</instance_name>
+        <name>sys_ux_page_registry_4951f86b97f8c610414bf2a3f153af40</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>0951f86b97f8c610414bf2a3f153af3c</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="UXR Base Unified App">c4b650c2c702201072b211d4d8c260a4</parent_app><path>cloudzestio</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-13 11:49:02</sys_created_on><sys_id>4951f86b97f8c610414bf2a3f153af40</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cloudzest.io</sys_name><sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package><sys_policy/><sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope><sys_update_name>sys_ux_page_registry_4951f86b97f8c610414bf2a3f153af40</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-13 11:49:02</sys_updated_on><title>Cloudzest.io</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-691463100</payload_hash>
+        <record_name>Cloudzest.io</record_name>
+        <reverted_from/>
+        <source>0aad2ac497200210414bf2a3f153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 11:49:02</sys_created_on>
+        <sys_id>9951f86b97f8c610414bf2a3f153af43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e37a4fb0d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 11:49:02</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>9d51f86ba3f8c61004a562bbffb2db42</update_guid>
+        <update_guid_history>9d51f86ba3f8c61004a562bbffb2db42:-691463100</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-20 08:53:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>3b7539e786f24b9fa5ad151abb6d0909</sys_id>
+        <sys_metadata>4951f86b97f8c610414bf2a3f153af40</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloudzest.io</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_scope_delete display_value="">993f8f4824594b6f985007d6b1a2cbb9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_4951f86b97f8c610414bf2a3f153af40</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_4951f86b97f8c610414bf2a3f153af40">9951f86b97f8c610414bf2a3f153af43</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-20 08:53:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

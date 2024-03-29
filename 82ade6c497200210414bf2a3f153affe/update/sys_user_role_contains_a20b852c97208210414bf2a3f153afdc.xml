@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_1300744_mumbai_0.admin" name="x_1300744_mumbai_0.admin">9ead2ac497200210414bf2a3f153af06</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 19:43:53</sys_created_on>
+        <sys_id>a20b852c97208210414bf2a3f153afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1300744_mumbai_0.admin</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_update_name>sys_user_role_contains_a20b852c97208210414bf2a3f153afdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 19:43:53</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

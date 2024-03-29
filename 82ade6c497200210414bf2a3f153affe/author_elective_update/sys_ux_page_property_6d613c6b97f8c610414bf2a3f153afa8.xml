@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="Cloudzest.io">4951f86b97f8c610414bf2a3f153af40</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 11:49:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>6d613c6b97f8c610414bf2a3f153afa8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_update_name>sys_ux_page_property_6d613c6b97f8c610414bf2a3f153afa8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 11:49:20</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1300744_mumbai_0.4951f86b97f8c610414bf2a3f153af40.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=6d613c6b97f8c610414bf2a3f153afa8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</application>
+        <file_path/>
+        <instance_id>5d7757d79b9e4f087ac36b8af359ff90</instance_id>
+        <instance_name>dev47283</instance_name>
+        <name>sys_ux_page_property_6d613c6b97f8c610414bf2a3f153afa8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="Cloudzest.io">4951f86b97f8c610414bf2a3f153af40</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-13 11:49:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>6d613c6b97f8c610414bf2a3f153afa8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package><sys_policy/><sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope><sys_update_name>sys_ux_page_property_6d613c6b97f8c610414bf2a3f153afa8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-13 11:49:20</sys_updated_on><type>json</type><unique_name>x_1300744_mumbai_0.4951f86b97f8c610414bf2a3f153af40.root.chrome_footer</unique_name><value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=6d613c6b97f8c610414bf2a3f153afa8"/></record_update>]]></payload>
+        <payload_hash>-1825206283</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>0aad2ac497200210414bf2a3f153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 11:49:20</sys_created_on>
+        <sys_id>e9613c6b97f8c610414bf2a3f153afaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e37a540390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 11:49:20</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>ed613c6b0bf8c6107b9c9e8f605a61a9</update_guid>
+        <update_guid_history>ed613c6b0bf8c6107b9c9e8f605a61a9:-1825206283</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-20 08:53:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>7739a7a784864bc8ba9da821aa23c090</sys_id>
+        <sys_metadata>6d613c6b97f8c610414bf2a3f153afa8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_scope_delete display_value="">993f8f4824594b6f985007d6b1a2cbb9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_6d613c6b97f8c610414bf2a3f153afa8</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_6d613c6b97f8c610414bf2a3f153afa8">e9613c6b97f8c610414bf2a3f153afaa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-20 08:53:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

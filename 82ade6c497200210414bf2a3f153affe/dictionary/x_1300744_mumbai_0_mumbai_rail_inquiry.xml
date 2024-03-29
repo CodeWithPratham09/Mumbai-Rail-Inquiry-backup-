@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="81ed6ec497200210414bf2a3f153af64" extends="task" label="Mumbai Rail Inquiry" max_length="40" name="x_1300744_mumbai_0_mumbai_rail_inquiry" text_index="true" type="collection">
+        <element choice="1" label="Category" mandatory="true" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Ticket Issue" sequence="0" value="Ticket Issue"/>
+                <element inactive_on_update="false" label="Catering Issue" sequence="1" value="Catering Issue"/>
+                <element inactive_on_update="false" label="Berth Issue" sequence="2" value="Berth Issue"/>
+            </choice>
+        </element>
+        <element choice="3" label="Priority" max_length="40" name="priorit0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="P1" sequence="0" value="P1"/>
+                <element inactive_on_update="false" label="P2" sequence="1" value="P2"/>
+            </choice>
+        </element>
+        <element label="Requester" mandatory="true" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element choice="3" label="State" max_length="40" name="stat0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="Pending"/>
+                <element inactive_on_update="false" label="Awaiting Approval" sequence="1" value="Awaiting Approval"/>
+                <element inactive_on_update="false" label="Open" sequence="2" value="Open"/>
+                <element inactive_on_update="false" label="Work In Progress" sequence="3" value="Work In Progress"/>
+                <element inactive_on_update="false" label="Resolved" sequence="4" value="Resolved"/>
+                <element inactive_on_update="false" label="Closed" sequence="5" value="Closed"/>
+                <element inactive_on_update="false" label="Reopen" sequence="6" value="Reopen"/>
+            </choice>
+        </element>
+        <element choice="3" dependent="category" dependent_on_field="category" label="Subcategory" mandatory="true" max_length="40" name="subcategory" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Ticket Issue" inactive_on_update="false" label="Refund Issue" sequence="0" value="Refund Issue"/>
+                <element dependent_value="Ticket Issue" inactive_on_update="false" label="Reservation Issue" sequence="1" value="Reservation Issue"/>
+                <element dependent_value="Catering Issue" inactive_on_update="false" label="Food Quality not good" sequence="2" value="Food Quality not good"/>
+                <element dependent_value="Catering Issue" inactive_on_update="false" label="Food Not Provided" sequence="3" value="Food Not Provided"/>
+                <element dependent_value="Berth Issue" inactive_on_update="false" label="Blanket not available" sequence="4" value="Blanket not available"/>
+                <element dependent_value="Berth Issue" inactive_on_update="false" label="AC not working" sequence="5" value="AC not working"/>
+                <element dependent_value="Berth Issue" inactive_on_update="false" label="Light Issue" sequence="6" value="Light Issue"/>
+            </choice>
+        </element>
+    </element>
+</database>

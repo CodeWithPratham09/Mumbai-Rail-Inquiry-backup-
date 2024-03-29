@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="Mumbai Rail Inquiry Dashboard">0dcd5de097a08210414bf2a3f153af69</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>681b365ec0a80164000fb0b05854a0cd</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 21:13:50</sys_created_on>
+        <sys_id>00af9d6497a08210414bf2a3f153afd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>681b365ec0a80164000fb0b05854a0cd</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_00af9d6497a08210414bf2a3f153afd4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 21:13:50</sys_updated_on>
+        <type>3</type>
+        <user display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</application>
+        <file_path/>
+        <instance_id>5d7757d79b9e4f087ac36b8af359ff90</instance_id>
+        <instance_name>dev47283</instance_name>
+        <name>pa_dashboards_permissions_00af9d6497a08210414bf2a3f153afd4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions"><pa_dashboards_permissions action="INSERT_OR_UPDATE"><dashboard display_value="Mumbai Rail Inquiry Dashboard">0dcd5de097a08210414bf2a3f153af69</dashboard><delete>false</delete><group/><identity>681b365ec0a80164000fb0b05854a0cd</identity><read>true</read><role/><sys_class_name>pa_dashboards_permissions</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 21:13:50</sys_created_on><sys_id>00af9d6497a08210414bf2a3f153afd4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>681b365ec0a80164000fb0b05854a0cd</sys_name><sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package><sys_policy/><sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope><sys_update_name>pa_dashboards_permissions_00af9d6497a08210414bf2a3f153afd4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 21:13:50</sys_updated_on><type>3</type><user display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</user><write>false</write></pa_dashboards_permissions></record_update>]]></payload>
+        <payload_hash>121897791</payload_hash>
+        <record_name>681b365ec0a80164000fb0b05854a0cd</record_name>
+        <reverted_from/>
+        <source>0aad2ac497200210414bf2a3f153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 21:13:50</sys_created_on>
+        <sys_id>08af9d6497a08210414bf2a3f153afd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc85e286e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 21:13:50</sys_updated_on>
+        <type>Dashboard Permissions</type>
+        <update_guid>0caf9d64aea08210bb6f73bbdb6a49d5</update_guid>
+        <update_guid_history>0caf9d64aea08210bb6f73bbdb6a49d5:121897791</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="681b365ec0a80164000fb0b05854a0cd">df50ed6497a08210414bf2a3f153af04</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 21:17:04</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>2b653b55d8304a86979e8394549b27c4</sys_id>
+        <sys_metadata>00af9d6497a08210414bf2a3f153afd4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>681b365ec0a80164000fb0b05854a0cd</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_scope_delete display_value="">993f8f4824594b6f985007d6b1a2cbb9</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_00af9d6497a08210414bf2a3f153afd4</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_00af9d6497a08210414bf2a3f153afd4">08af9d6497a08210414bf2a3f153afd6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 21:17:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

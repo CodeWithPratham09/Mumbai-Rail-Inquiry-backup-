@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Mumbai Rail Inquiry Dashboard">0dcd5de097a08210414bf2a3f153af69</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 21:40:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4c525ac97a08210414bf2a3f153afe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0dcd5de097a08210414bf2a3f153af69</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_d4c525ac97a08210414bf2a3f153afe2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 21:40:36</sys_updated_on>
+        <tab display_value="New Tab 2">18c525ac97a08210414bf2a3f153afda</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</application>
+        <file_path/>
+        <instance_id>5d7757d79b9e4f087ac36b8af359ff90</instance_id>
+        <instance_name>dev47283</instance_name>
+        <name>pa_m2m_dashboard_tabs_d4c525ac97a08210414bf2a3f153afe2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Mumbai Rail Inquiry Dashboard">0dcd5de097a08210414bf2a3f153af69</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-20 21:40:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d4c525ac97a08210414bf2a3f153afe2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>0dcd5de097a08210414bf2a3f153af69</sys_name><sys_overrides/><sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package><sys_policy/><sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_d4c525ac97a08210414bf2a3f153afe2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-20 21:40:36</sys_updated_on><tab display_value="New Tab 2">18c525ac97a08210414bf2a3f153afda</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>340471528</payload_hash>
+        <record_name>0dcd5de097a08210414bf2a3f153af69</record_name>
+        <reverted_from/>
+        <source>0aad2ac497200210414bf2a3f153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 21:40:36</sys_created_on>
+        <sys_id>9cc525ac97a08210414bf2a3f153affd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc876ab5d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 21:40:36</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>14c525acd1a082101f18581a0ec09ae4</update_guid>
+        <update_guid_history>14c525acd1a082101f18581a0ec09ae4:340471528</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Mumbai Rail Inquiry Dashboard">8ec5a5ac97a08210414bf2a3f153af5b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 21:40:44</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>5e1d41a6c98e41c29f898736894cb191</sys_id>
+        <sys_metadata>d4c525ac97a08210414bf2a3f153afe2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0dcd5de097a08210414bf2a3f153af69</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_parent display_value="Mumbai Rail Inquiry Dashboard">0dcd5de097a08210414bf2a3f153af69</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_scope_delete display_value="">993f8f4824594b6f985007d6b1a2cbb9</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_d4c525ac97a08210414bf2a3f153afe2</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_d4c525ac97a08210414bf2a3f153afe2">9cc525ac97a08210414bf2a3f153affd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 21:40:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

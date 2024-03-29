@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "6a392db743c5211017b739603ab8f20c": {
+        "inputData": null,
+        "sortCategoriesArray": null
+    },
+    "365c0e890767111017b703767cd3008e": {},
+    "table": " x_1300744_mumbai_0_mumbai_rail_inquiry",
+    "header": "Mumbai Rail Inquiry Form",
+    "029f04e053610110ac9bddeeff7b1294": {
+        "inputTable": "mumbai rail inquiry"
+    },
+    "sysId": "a523a95d97600210414bf2a3f153afa7"
+}</macroponent_config>
+        <screen display_value="SignUp">efeb9ec597c54210414bf2a3f153af10</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-18 11:25:40</sys_created_on>
+        <sys_id>2beb9ec597c54210414bf2a3f153af14</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_2beb9ec597c54210414bf2a3f153af14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-18 12:41:43</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

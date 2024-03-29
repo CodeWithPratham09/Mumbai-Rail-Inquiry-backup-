@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>featureRoutes</name>
+        <page display_value="Mumbai Rail Inquiry">110b452c07208210d064c03314273e5e</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-28 20:35:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>cac933d897910210414bf2a3f153af8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>featureRoutes</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_update_name>sys_ux_page_property_cac933d897910210414bf2a3f153af8e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-28 20:35:58</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1300744_mumbai_0.110b452c07208210d064c03314273e5e.root.featureRoutes</unique_name>
+        <value>{"list":{"_default":{"routeInfo":{"route":"list","fields":[],"params":[{"name":"listId","mapping":{"address":"listId"}},{"name":"configId","mapping":{"address":"configId"}},{"name":"tinyId","mapping":{"address":"tinyId"}}]}}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=cac933d897910210414bf2a3f153af8e"/>
+</record_update>
