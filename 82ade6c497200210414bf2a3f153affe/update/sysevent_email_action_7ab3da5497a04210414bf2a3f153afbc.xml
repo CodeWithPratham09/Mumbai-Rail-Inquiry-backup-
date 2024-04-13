@@ -31,7 +31,7 @@
         <exclude_delegates>false</exclude_delegates>
         <force_delivery>false</force_delivery>
         <from/>
-        <generation_type>triggered</generation_type>
+        <generation_type>engine</generation_type>
         <importance/>
         <include_attachments>false</include_attachments>
         <item>event.parm1</item>
@@ -60,7 +60,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7ab3da5497a04210414bf2a3f153afbc</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Railway Inquiry Resolved</sys_name>
         <sys_overrides/>
         <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
@@ -68,7 +68,7 @@
         <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
         <sys_update_name>sysevent_email_action_7ab3da5497a04210414bf2a3f153afbc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-23 07:10:03</sys_updated_on>
+        <sys_updated_on>2024-04-10 06:54:30</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Mumbai rail Inquiry Form">b58dead997690a50414bf2a3f153af96</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-13 03:53:01</sys_created_on>
+        <sys_id>e6adeed997690a50414bf2a3f153af2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Mumbai rail Inquiry Form</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_e6adeed997690a50414bf2a3f153af2c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-13 03:53:01</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</application>
+        <file_path/>
+        <instance_id>5d7757d79b9e4f087ac36b8af359ff90</instance_id>
+        <instance_name>dev47283</instance_name>
+        <name>sc_cat_item_catalog_e6adeed997690a50414bf2a3f153af2c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Mumbai rail Inquiry Form">b58dead997690a50414bf2a3f153af96</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-13 03:53:01</sys_created_on><sys_id>e6adeed997690a50414bf2a3f153af2c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Mumbai rail Inquiry Form</sys_name><sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package><sys_policy/><sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope><sys_update_name>sc_cat_item_catalog_e6adeed997690a50414bf2a3f153af2c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-13 03:53:01</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-863298526</payload_hash>
+        <record_name>Service Catalog.Mumbai rail Inquiry Form</record_name>
+        <reverted_from/>
+        <source>e83f5a2897dd0210414bf2a3f153afe6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-13 03:53:01</sys_created_on>
+        <sys_id>6aadeed997690a50414bf2a3f153af30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ed5964e290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-13 03:53:01</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>aaadeed93d690a50c97a2d80615afd2f</update_guid>
+        <update_guid_history>aaadeed93d690a50c97a2d80615afd2f:-863298526</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Mumbai rail Inquiry Form">79bd221d97690a50414bf2a3f153af58</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-13 03:53:14</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>031ea7b0406343b8805ebe9114012040</sys_id>
+        <sys_metadata>e6adeed997690a50414bf2a3f153af2c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Mumbai rail Inquiry Form</sys_name>
+        <sys_package display_value="Mumbai Rail Inquiry" source="x_1300744_mumbai_0">82ade6c497200210414bf2a3f153affe</sys_package>
+        <sys_parent display_value="Mumbai rail Inquiry Form">b58dead997690a50414bf2a3f153af96</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Mumbai Rail Inquiry">82ade6c497200210414bf2a3f153affe</sys_scope>
+        <sys_scope_delete display_value="">993f8f4824594b6f985007d6b1a2cbb9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_e6adeed997690a50414bf2a3f153af2c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_e6adeed997690a50414bf2a3f153af2c">6aadeed997690a50414bf2a3f153af30</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-13 03:53:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

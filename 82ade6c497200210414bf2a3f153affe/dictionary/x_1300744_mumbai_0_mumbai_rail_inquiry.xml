@@ -7,6 +7,7 @@
                 <element inactive_on_update="false" label="Berth Issue" sequence="2" value="Berth Issue"/>
             </choice>
         </element>
+        <element label="Explain Your Issue" max_length="800" name="explain_your_issue" type="string"/>
         <element choice="3" label="Priority" max_length="40" name="priorit0" type="choice">
             <choice>
                 <element inactive_on_update="false" label="P1" sequence="0" value="P1"/>
