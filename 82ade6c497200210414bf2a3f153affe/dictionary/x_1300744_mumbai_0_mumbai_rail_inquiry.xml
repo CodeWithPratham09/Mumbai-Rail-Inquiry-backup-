@@ -7,7 +7,9 @@
                 <element inactive_on_update="false" label="Berth Issue" sequence="2" value="Berth Issue"/>
             </choice>
         </element>
+        <element label="Explain Query" mandatory="true" max_length="150" name="explain_query" type="string"/>
         <element label="Explain Your Issue" max_length="800" name="explain_your_issue" type="string"/>
+        <element label="PNR Number" mandatory="true" max_length="10" name="pnr_number" type="longint"/>
         <element choice="3" label="Priority" max_length="40" name="priorit0" type="choice">
             <choice>
                 <element inactive_on_update="false" label="P1" sequence="0" value="P1"/>
@@ -37,5 +39,6 @@
                 <element dependent_value="Berth Issue" inactive_on_update="false" label="Light Issue" sequence="6" value="Light Issue"/>
             </choice>
         </element>
+        <element label="Upload Photo" max_length="2" name="upload_photo" type="user_image"/>
     </element>
 </database>
